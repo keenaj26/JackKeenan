@@ -1,1 +1,1 @@
-# JackKeenan
+# "👋 Hey there! I'm Jacl, a Computer Science student at Dublin City University (DCU) with a knack for coding and a passion for technology. When I'm not crafting software solutions or exploring new algorithms, I'm cheering on my favorite GAA teams. Let's collaborate and build something awesome together! 💻⚽️"
